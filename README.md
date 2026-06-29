@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiwot Fikadu</h1>
-<h3 align="center">A software developer and data analyst from ET</h3>
+<h3 align="center">A software developer,system administrator  and data analyst from ET</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hiwot-fikadu-tesfaye-636301245/" target="blank">
